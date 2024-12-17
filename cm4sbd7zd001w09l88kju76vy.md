@@ -1,6 +1,6 @@
 ---
 title: "Paper summary -"
-datePublished: Tue Dec 17 2024 10:21:25 GMT+0000 (Coordinated Universal Time)
+datePublished: Sat Dec 14 2024 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm4sbd7zd001w09l88kju76vy
 slug: paper-summary
 tags: ai, computer-vision, aliasing, ai-robustness, ai-natural-robustness, ai-spatial-robustness
@@ -12,8 +12,6 @@ tags: ai, computer-vision, aliasing, ai-robustness, ai-natural-robustness, ai-sp
 Another paper on the effect of aliasing, a very much studied concept in 2020, kinda forgotten after that. It can be seen as a follow up to \[2\], refining the ideas expressed there (check out the [summary](https://robustramblings.hashnode.dev/paper-summary-making-convolutional-networks-shift-invariant-again)! I'm supposed to do that right?).
 
 There are a couple of concepts that are key to this paper, to each we will give a separate sub-section.
-
-### Aliasing, generalization and robustness
 
 ### Can CNNs learn low-pass filters from data?
 
