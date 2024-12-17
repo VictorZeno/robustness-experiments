@@ -1,5 +1,5 @@
 ---
-title: "Paper summary -"
+title: "Paper summary - Impact of Aliasing on Generalization in Deep Convolutional Networks"
 datePublished: Sat Dec 14 2024 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm4sbd7zd001w09l88kju76vy
 slug: paper-summary
@@ -7,7 +7,9 @@ tags: ai, computer-vision, aliasing, ai-robustness, ai-natural-robustness, ai-sp
 
 ---
 
-## TL; DR: by carefully selecting where to put aliasing mitigation in a CNN it is possible to limit anti-aliasing information loss. Aliasing negatively impact performances in a way that is not evident from validation loss.
+## TL; DR
+
+by carefully selecting where to put aliasing mitigation in a CNN it is possible to limit anti-aliasing information loss. Aliasing negatively impact performances in a way that is not evident from validation loss.
 
 Another paper on the effect of aliasing, a very much studied concept in 2020, kinda forgotten after that. It can be seen as a follow up to \[2\], refining the ideas expressed there (check out the [summary](https://robustramblings.hashnode.dev/paper-summary-making-convolutional-networks-shift-invariant-again)! I'm supposed to do that right?).
 
